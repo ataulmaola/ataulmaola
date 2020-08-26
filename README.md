@@ -1,9 +1,9 @@
 <h2> Hi, I'm Ataul Maola! 
 <p>
  I’m fascinated by languages, both human and machine, and the connections between the two.
- <br> I recently completed Bsc in computer science and engineering at International Islamic University Chittagong,
- <br> where I studied CS, technology, machine learning, and NLP. Meanwhile, I taught myself Python on the side, 
-  which ultimately led me to computational linguistics.
+ I recently completed Bsc in computer science and engineering at International Islamic University Chittagong,
+ where I studied CS, technology, machine learning, and NLP. Meanwhile, I taught myself Python on the side, 
+ which ultimately led me to computational linguistics.
 </em></p>
 
 <p>
