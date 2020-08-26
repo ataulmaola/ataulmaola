@@ -4,8 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ataul_anas?label=%3A%20%20ataul%20anas&style=social)](https://twitter.com/anas_ataul)
-
-[!(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ataul-anas/)](https://www.linkedin.com/in/thaianebraga/)
+https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ataul-anas/
 
 
 
