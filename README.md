@@ -1,11 +1,6 @@
 <h2> Hi, I'm Ataul Maola! 
-<p>
- I’m fascinated by languages, both human and machine, and the connections between the two.
- I recently completed Bsc in computer science and engineering at International Islamic University Chittagong,
- where I studied CS, technology, machine learning, and NLP. Meanwhile, I taught myself Python on the side, 
- which ultimately led me to computational linguistics.
+<p><em>Software Enginner at <a href="http://www.upwork.com">Upwork</a>
 </em></p>
-
 <p>
 <img alt="Twitter ataul_anas" src="https://img.shields.io/twitter/follow/ataul_anas?label=%3A%20%20ataul%20anas&style=social">
 <img alt="LinkedIn ataul-anas" src="https://img.shields.io/badge/ataulanas-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ataul-anas/">
