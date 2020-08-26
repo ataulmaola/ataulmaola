@@ -14,14 +14,15 @@
 ```javascript
 const anas = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java" , "NoSQL", "SQL"],
+  tools: ["Node", "Express", "Vue", "Vuex", "React", "Redux", "Docker", "MongoDB", "Mongoose"],
+  methods: ["REST", "GraphQl"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
+  techCommunities: [
+                        "Python Bangladesh",
+                        "talkjs",
+                        "phpExpert"
+                      ],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
