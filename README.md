@@ -1,6 +1,7 @@
 <h2> Hi, I'm Ataul Maola! 
 <p><em>Software Enginner at <a href="https://www.upwork.com/">Upwork</a>
 </em></p>
+
 <p>
 <img alt="Twitter ataul_anas" src="https://img.shields.io/twitter/follow/ataul_anas?label=%3A%20%20ataul%20anas&style=social">
 <img alt="LinkedIn ataul-anas" src="https://img.shields.io/badge/ataulanas-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ataul-anas/">
