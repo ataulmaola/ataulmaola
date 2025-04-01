@@ -1,7 +1,7 @@
 # 👋 Hello, I'm [Ataul Maola Anas]
 ## Data Analyst & Insights Specialist
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ataulmaola&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ataul-anas/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://yourportfolio.com)
 
