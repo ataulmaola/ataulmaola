@@ -23,11 +23,10 @@ I'm a passionate data analyst with expertise in data visualization, statistical 
 ### 🛠️ Technical Skills
 
 ```
-📋 Languages:      Python, SQL, R
-📊 Visualization:  Tableau, Power BI, Matplotlib, Seaborn
+📋 Languages:      SQL, Python
+📊 Visualization:  Power BI, Matplotlib, Seaborn
 🗄️ Databases:      MySQL, PostgreSQL, MongoDB
 📈 Analytics:      Pandas, NumPy, SciPy, scikit-learn
-☁️ Cloud:          AWS, Google Cloud Platform
 🧰 Tools:          Git, Jupyter, Excel, Google Analytics
 ```
 
