@@ -82,7 +82,7 @@ I'm a passionate data analyst with expertise in data visualization, statistical 
 ### 📫 How to Reach Me
 
 - 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ataul-anas/)
 - 🌐 Website: [Your Personal Site](https://yourwebsite.com)
 
 ---
