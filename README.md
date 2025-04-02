@@ -99,4 +99,4 @@ I'm a passionate data analyst with expertise in data visualization, statistical 
 
 > "The goal is to turn data into information, and information into insight." – Carly Fiorina
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [ataulmaola](https://github.com/ataulmaola)
