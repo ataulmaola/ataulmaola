@@ -27,7 +27,7 @@ I'm a passionate data analyst with expertise in data visualization, statistical 
 📊 Visualization:  Power BI, Matplotlib, Seaborn
 🗄️ Databases:      MySQL, PostgreSQL, MongoDB
 📈 Analytics:      Pandas, NumPy, SciPy, scikit-learn
-🧰 Tools:          Git, Jupyter, Excel, Google Analytics
+🧰 Tools:          Excel, Jupyter
 ```
 
 ---
